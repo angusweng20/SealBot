@@ -1,0 +1,16 @@
+# Local GAS / clasp
+.clasp.json
+
+# macOS
+.DS_Store
+
+# Node / tooling
+node_modules/
+
+# Local work files
+.sisyphus/
+tool-output/
+
+# Project-specific non-release materials
+創業計畫/
+supabase/

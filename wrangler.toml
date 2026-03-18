@@ -1,0 +1,7 @@
+name = "jide-line-webhook-proxy"
+main = "line-webhook-proxy.js"
+compatibility_date = "2026-03-16"
+account_id = "16a03fa6c50888373d29799f4e919d5d"
+
+[vars]
+GAS_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbxVa-cTGEbLLzOOjeVTR1zgztqmj8qlzR5koo5zCbh4Ig0Ho0kpDfQl5n2DIRcgoebfOw/exec"
