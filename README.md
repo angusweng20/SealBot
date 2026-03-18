@@ -102,6 +102,18 @@ getOpenSourcePublishChecklist()
 - `getOpenSourcePublishChecklist()`
 - `getRuntimeConfigSummary()`
 
+## AI 安裝說明
+
+如果你想把這個專案交給對話型 AI 協助部署，可參考：
+
+- [AI-README.md](/Users/angus/OpenCode/要記得2.0/AI-README.md)
+
+這份文件是寫給 OpenCode、Codex、Claude Code、Cursor 等 agent 用的，目標是讓 AI 可以：
+- 快速理解專案定位
+- 正確判斷這是純 Google Sheets 自架版
+- 產出一步步部署教學
+- 只在必要時才向使用者索取 token 或 LINE 設定
+
 ## 專案結構
 
 - `Code.js`: 入口、Webhook、Trigger
